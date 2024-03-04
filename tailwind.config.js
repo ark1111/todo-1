@@ -8,11 +8,20 @@ export default {
         primary:{
            main:"#222222"
         },
-        // secondary:{
-          
-        // },
+        secondary:{
+          one : {
+            main:"#B8CABA"
+          },
+          two : {
+            main:"#FCE2AD"
+          }
+        },
         divider:{
           main:"#999999"
+        },
+        text:{
+          primary:"#fff",
+          secondary:"#111"
         }
       }
     },

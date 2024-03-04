@@ -3,8 +3,8 @@
 export const NavList = [
     {
         id:1,
-        title:"Tasks",
-        link:"./tasks",
+        title:"Notes",
+        link:"./notes",
         icon:""
     },
     {
@@ -15,8 +15,8 @@ export const NavList = [
     },
     {
         id:3,
-        title:"Notes",
-        link:"./notes",
+        title:"Tasks",
+        link:"./tasks",
         icon:""
     },
 ]
