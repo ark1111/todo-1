@@ -21,7 +21,8 @@ export default {
         },
         text:{
           primary:"#fff",
-          secondary:"#111"
+          secondary:"#111",
+          main:"#111"
         }
       }
     },
